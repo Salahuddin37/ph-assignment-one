@@ -1,0 +1,56 @@
+*{
+    font-family: monospace;
+}
+/* style nav-bar */
+.style-nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+}
+.style-name{
+    font-size:25px ;
+    font-weight:800px;
+}
+.style-button{
+    padding: 10px;
+    margin: 18px;
+    background-color: white;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+/* banner pannel design */
+.banner-parent{
+    background-image: url("./assets/Hero-bg.png");
+    text-align: center;
+    padding: 20px 350px;
+}
+.banner-title{
+    font-size: 45px;
+    font-weight: 900;
+    margin-top: 5px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: monospace;
+    
+}
+.banner-description{
+    font-size: 16px;
+    color: #0D1321;
+    margin-top: -10px;
+    font-weight: 500px;
+    padding: 0px 100px;
+}
+.banner-child-3{
+    margin: 10px;
+    background-color: black;
+    color:whitesmoke;
+    padding: 13px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    
+
+}
