@@ -1,6 +1,10 @@
 *{
     font-family: monospace;
 }
+/* primary style */
+.primary-margin{
+    margin: 40px 90px;
+}
 /* style nav-bar */
 .style-nav{
     display: flex;
@@ -53,4 +57,144 @@
     font-weight: 700;
     
 
+}
+/* About webelopment section style */
+.dev-containers{
+    text-align: center;
+    
+}
+.dev-title{
+    font-size: 32px;
+    font-weight: 900;
+}
+.dev-description{
+    margin: 10px 120px;
+    font-size: 15px;
+    font-weight: bold;
+    opacity: 0.50;
+
+}
+/* Dev Container----------1 */
+.web-dev{
+    background-color:rgba(13, 19, 33, 0.02);
+    margin-bottom: 200px;
+    border: 2px solid white;
+    
+}
+.dev-container-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 80px 40px 80px;
+    background-color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+      
+}
+.dev-content{
+    margin-right: 200px;
+    
+
+}
+.dev-title-1{
+    font-size: 24px;
+    font-weight: 900;
+}
+.dev-description-1{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.dev-button-1{
+    font-size: 20px;
+    padding: 5px;
+    font-weight:bold;
+    opacity: 0.7;
+    border-radius: none;
+    background-color: white;
+    border-width: 1px;
+    
+}
+.dev-img-1{
+    margin-right: 100px;
+}
+
+/* Dev Container-----------2 */
+.dev-container-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 80px;
+    background-color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+    margin-top: -20px;
+    
+
+}
+
+.dev-content-2{
+    margin-right: 200px;
+    
+
+}
+.dev-title-2{
+    font-size: 24px;
+    font-weight: 900;
+}
+.dev-description-2{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.dev-button-2{
+    font-size: 20px;
+    padding: 5px;
+    font-weight:bold;
+    opacity: 0.7;
+    border-radius: none;
+    background-color: white;
+    border-width: 1px;
+    
+}
+.dev-img-2{
+    margin-right: 100px;
+}
+
+
+
+/* Dev Container-----------3 */
+.dev-container-3{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 80px;
+    background-color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+    margin-top: -40px;
+    
+    
+}
+
+.dev-content-3{
+    margin-right: 200px;
+    
+
+}
+.dev-title-3{
+    font-size: 24px;
+    font-weight: 900;
+}
+.dev-description-3{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.dev-button-3{
+    font-size: 20px;
+    padding: 5px;
+    font-weight:bold;
+    opacity: 0.7;
+    border-radius: none;
+    background-color: white;
+    border-width: 1px;
+    
+}
+.dev-img-3{
+    margin-right: 100px;
 }
