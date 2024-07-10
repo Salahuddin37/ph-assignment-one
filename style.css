@@ -5,8 +5,17 @@
 .primary-margin{
     margin: 40px 90px;
 }
-.primary-opacity{
+.primary-opa-siz{
     opacity: 0.7;
+    font-size: 15px;
+}
+.primary-title{
+    font-size: 30px;
+    font-weight: 900;
+}
+.primary-description{
+    
+
 }
 /* style nav-bar */
 .style-nav{
@@ -44,7 +53,7 @@
     
 }
 .banner-description{
-    font-size: 16px;
+
     color: #0D1321;
     margin-top: -10px;
     font-weight: 500px;
@@ -73,9 +82,9 @@
 }
 .dev-description{
     margin: 10px 120px;
-    font-size: 15px;
-    font-weight: bold;
-    opacity: 0.50;
+    
+    
+    
 
 }
 /* Dev Container----------1 */
@@ -102,11 +111,9 @@
 .dev-title-1{
     font-size: 24px;
     font-weight: 900;
-}
-.dev-description-1{
-    font-size: 16px;
     opacity: 0.7;
 }
+
 .dev-button-1{
     font-size: 20px;
     padding: 5px;
@@ -142,11 +149,9 @@
 .dev-title-2{
     font-size: 24px;
     font-weight: 900;
-}
-.dev-description-2{
-    font-size: 16px;
     opacity: 0.7;
 }
+
 .dev-button-2{
     font-size: 20px;
     padding: 5px;
@@ -184,11 +189,13 @@
 .dev-title-3{
     font-size: 24px;
     font-weight: 900;
+    opacity: 0.7;
 }
 .dev-description-3{
     font-size: 16px;
     opacity: 0.7;
 }
+
 .dev-button-3{
     font-size: 20px;
     padding: 5px;
@@ -233,5 +240,69 @@
     height: 580px;
 }
 /* My Current Target */
+.my-current-target{
+    text-align: center;  
+}
+.my-current-target-title{
+    /* font-size: 30px; */
+    font-weight: 900;
+}
+.my-current-target-description{
+    font-size: 16px;
+    padding: 0px 100px;
+}
+.current-target-parent{
+    display: flex;
+    justify-content:space-around;
+}
+.current-target-child-1{
+    background-color: rgb(255, 246, 244);
+    width: 370px;
+    height: 250px;
+    padding: 25px;
+    border-radius: 10px;
+}
+.current-target-child-2{
+    background-color: rgb(242, 246, 254);
+    width: 370px;
+    height: 250px;
+    padding: 25px;
+    border-radius: 10px;
+}
+.current-target-child-3{
+    background-color: rgb(255, 253, 242);
+    width: 370px;
+    height: 250px;
+    padding: 25px;
+    border-radius: 10px;
+    
+}
+.current-target-description{
+    font-size: 15px;
+}
+.current-target-description-1{
+    font-size: 15px;
+}
+.current-target-description-2{
+    font-size: 15px;
+}
+.learn-more-link{
+    font-size: 16px;
+    color: black;
+    font-weight:bold;
+    text-decoration: underline;
+}
+.learn-more-link-1{
+    font-size: 16px;
+    color: black;
+    font-weight:bold;
+    text-decoration: underline;
+}
+.learn-more-link-2{
+    font-size: 16px;
+    color: black;
+    font-weight:bold;
+    text-decoration: underline;
+}
 
 /* My Next Target */
